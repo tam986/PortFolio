@@ -66,7 +66,7 @@ export default function Home() {
             >
               {[
                 { icon: '⚡', title: 'Frontend', desc: 'React, Next.js, TypeScript, Tailwin' },
-                { icon: '🔧', title: 'Backend', desc: 'Node.js, MySQL' },
+                { icon: '🔧', title: 'Backend', desc: 'Node.js, MySQL, Laravel Php Framework, PHP' },
                 { icon: '☁️', title: 'Cloud & DevOps', desc: 'GitHub Actions, Vercel' },
                 { icon: '🎨', title: 'Design', desc: 'Figma, UI/UX principles, Animation, Glassmorphism' },
               ].map((item) => (
