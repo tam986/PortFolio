@@ -65,9 +65,9 @@ export default function Home() {
               className="space-y-4"
             >
               {[
-                { icon: '⚡', title: 'Frontend', desc: 'React, Next.js, TypeScript, Tailwind, Framer Motion' },
-                { icon: '🔧', title: 'Backend', desc: 'Node.js, Python, PostgreSQL, Redis, GraphQL' },
-                { icon: '☁️', title: 'Cloud & DevOps', desc: 'AWS, Docker, Kubernetes, GitHub Actions, Vercel' },
+                { icon: '⚡', title: 'Frontend', desc: 'React, Next.js, TypeScript, Tailwin' },
+                { icon: '🔧', title: 'Backend', desc: 'Node.js, MySQL' },
+                { icon: '☁️', title: 'Cloud & DevOps', desc: 'GitHub Actions, Vercel' },
                 { icon: '🎨', title: 'Design', desc: 'Figma, UI/UX principles, Animation, Glassmorphism' },
               ].map((item) => (
                 <motion.div

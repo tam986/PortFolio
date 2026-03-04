@@ -1,0 +1,42 @@
+{
+    "websiteInfo": {
+        "title": "ThanhTam Portfolio",
+        "description": "A showcase of my projects and skills.",
+        "logoUrl": "/avatar.png",
+        "socialLinks": {
+            "github": "https://github.com/tam986",
+            "linkedin": "https://linkedin.com",
+            "email": "hello@example.com"
+        },
+        "heroImage": "/avatar.png",
+        "resumeUrl": "#"
+    },
+    "projects": [
+        {
+            "id": "1",
+            "title": "AI Dashboard",
+            "description": "A real-time analytics dashboard powered by machine learning for predictive insights.",
+            "category": "AI/ML",
+            "tags": [
+                "Python",
+                "React",
+                "TensorFlow"
+            ],
+            "liveUrl": "#",
+            "repoUrl": "#"
+        },
+        {
+            "id": "2",
+            "title": "E-Commerce Platform",
+            "description": "Full-featured online store with cart, payments, and admin management.",
+            "category": "Web App",
+            "tags": [
+                "Next.js",
+                "Stripe",
+                "PostgreSQL"
+            ],
+            "liveUrl": "#",
+            "repoUrl": "#"
+        }
+    ]
+}
